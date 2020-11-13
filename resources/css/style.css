@@ -10,3 +10,7 @@ p {
 a {
     color: aquamarine;
 }
+
+footer p {
+    text-align: right;
+}
